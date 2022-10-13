@@ -1,5 +1,5 @@
 ---
-title: my first git repo
+title: my first git repo (Conflict test Branch)
 author: Eric Viera
 output: github_document
 ---
@@ -20,3 +20,7 @@ Here is some final text for third commit
 # My test branch
 
 Here is some test I will commit to the test branch.
+
+#New Test branch
+here is some text I will commit to my new branch.
+
