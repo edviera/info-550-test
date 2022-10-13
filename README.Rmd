@@ -1,5 +1,5 @@
 ---
-title: my first git repo
+title: my first git repo (on the master branch)
 author: Eric Viera
 output: github_document
 ---
