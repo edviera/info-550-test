@@ -7,3 +7,7 @@ output: github_document
 # My first Commit
 
 here is some text that constitutes my first commit in my first repo
+
+#My Second commit
+
+More text for second commit
