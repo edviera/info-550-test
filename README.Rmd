@@ -11,3 +11,7 @@ here is some text that constitutes my first commit in my first repo
 #My Second commit
 
 More text for second commit
+
+#MY third commit
+
+Here is some final text for third commit
